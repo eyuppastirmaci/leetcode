@@ -1,7 +1,7 @@
 
 #### A collection of my personal solutions to LeetCode problems
 
-[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-3%2F3615-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-5%2F3615-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
 
 ## 📝 Solutions
 
