@@ -1,7 +1,7 @@
 
 #### A collection of my personal solutions to LeetCode problems
 
-[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-5%2F3615-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-7%2F3615-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
 
 ## 📝 Solutions
 
@@ -13,3 +13,4 @@
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                       |          [Java](Java/0004-median-of-two-sorted-arrays.java)           |    Hard    |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   |         [Java](Java/0005-longest-palindromic-substring.java)          |   Medium   |
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                           |               [Java](Java/0006-zigzag-conversion.java)                |   Medium   |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                               |                [Java](Java/0007-reverse-integer.java)                 |   Medium   |
