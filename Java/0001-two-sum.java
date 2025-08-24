@@ -1,3 +1,8 @@
+/**
+ * HashMap
+ * Time: O(n)
+ * Space: O(n)
+ */
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
