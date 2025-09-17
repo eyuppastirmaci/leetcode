@@ -1,7 +1,6 @@
-
 #### A collection of my personal solutions to LeetCode problems
 
-[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-10%2F3615-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-11%2F3615-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
 
 ## 📝 Solutions
 
@@ -17,3 +16,4 @@
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                                                  |            [Java](Java/0008-string-to-integer-(atoi).java)            |   Medium   |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                              |               [Java](Java/0009-palindrome-number.java)                |    Easy    |
 | 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)                                                          |          [Java](Java/0010-regular-expression-matching.java)           |    Hard    |
+| 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                                              |          [Java](Java/0011-container-with-most-water.java)            |   Medium   |
