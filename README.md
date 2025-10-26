@@ -1,5 +1,5 @@
 ﻿#### A collection of my personal solutions to LeetCode problems
-[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-14%2F3615-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-16%2F3615-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
 ## 📝 Solutions
 |  #   | Title                                                                                                                           |                               Solution                                | Difficulty |
 |:----:|:--------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------:|:----------:|
@@ -16,4 +16,6 @@
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           |           [Java](Java/0011-container-with-most-water.java)            |   Medium   |
 | 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                                             |                [Java](Java/0012-integer-to-roman.java)                |   Medium   |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             |                [Java](Java/0013-roman-to-integer.java)                |    Easy    |
-| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   |                [Java](Java/0014-longest-common-prefix.java)           |    Easy    |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   |             [Java](Java/0014-longest-common-prefix.java)              |    Easy    |
+| 0015 | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     |                      [Java](Java/0015-3sum.java)                      |   Medium   |
+| 0018 | [4Sum](https://leetcode.com/problems/4sum/)                                                                                     |                      [Java](Java/0018-4sum.java)                      |   Medium   |
