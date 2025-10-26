@@ -1,9 +1,6 @@
-#### A collection of my personal solutions to LeetCode problems
-
-[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-13%2F3615-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
-
+﻿#### A collection of my personal solutions to LeetCode problems
+[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-14%2F3615-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
 ## 📝 Solutions
-
 |  #   | Title                                                                                                                           |                               Solution                                | Difficulty |
 |:----:|:--------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------:|:----------:|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               |                    [Java](Java/0001-two-sum.java)                     |    Easy    |
@@ -19,3 +16,4 @@
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           |           [Java](Java/0011-container-with-most-water.java)            |   Medium   |
 | 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                                             |                [Java](Java/0012-integer-to-roman.java)                |   Medium   |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             |                [Java](Java/0013-roman-to-integer.java)                |    Easy    |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   |                [Java](Java/0014-longest-common-prefix.java)           |    Easy    |
