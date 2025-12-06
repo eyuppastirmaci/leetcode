@@ -4,19 +4,19 @@
  * Space Complexity: O(4^n * n) intermediate lists are created at each fold step.
  */
 class Solution {
+    private val digitLettersMap = mapOf(
+        '2' to "abc",
+        '3' to "def",
+        '4' to "ghi",
+        '5' to "jkl",
+        '6' to "mno",
+        '7' to "pqrs",
+        '8' to "tuv",
+        '9' to "wxyz"
+    )
+
     fun letterCombinations(digits: String): List<String> {
         if (digits.isEmpty()) return emptyList()
-
-        val digitLettersMap = mapOf(
-            '2' to "abc",
-            '3' to "def",
-            '4' to "ghi",
-            '5' to "jkl",
-            '6' to "mno",
-            '7' to "pqrs",
-            '8' to "tuv",
-            '9' to "wxyz"
-        )
 
         val lettersList = digits.map { digit ->
             digitLettersMap[digit] ?: ""
