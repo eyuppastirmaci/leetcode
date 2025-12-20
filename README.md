@@ -1,5 +1,5 @@
 ﻿#### A collection of my personal solutions to LeetCode problems
-[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-20%2F3762-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-22%2F3762-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
 ## 📝 Solutions
 |  #   | Title                                                                                                                           |                               Solution                                | Difficulty |
 |:----:|:--------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------:|:----------:|
@@ -23,3 +23,5 @@
 | 0018 | [4Sum](https://leetcode.com/problems/4sum/)                                                                                     |                      [Java](Java/0018-4sum.java)                      |   Medium   |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             |       [Kotlin](Kotlin/0019-remove-nth-node-from-end-of-list.kt)       |   Medium   |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           |              [Kotlin](Kotlin/0020-valid-parentheses.kt)               |    Easy    |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 |          [Kotlin](Kotlin/0021-merge-two-sorted-lists.kt)          |    Easy    |
+| 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                     |           [Kotlin](Kotlin/0022-generate-parantheses.kt)           |   Medium   |
