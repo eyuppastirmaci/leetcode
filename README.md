@@ -1,5 +1,5 @@
 ﻿#### A collection of my personal solutions to LeetCode problems
-[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-23%2F3762-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-25%2F3762-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
 ## 📝 Solutions
 |  #   | Title                                                                                                                           |                               Solution                                | Difficulty |
 |:----:|:--------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------:|:----------:|
@@ -26,3 +26,5 @@
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 |            [Kotlin](Kotlin/0021-merge-two-sorted-lists.kt)            |    Easy    |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                     |             [Kotlin](Kotlin/0022-generate-parantheses.kt)             |   Medium   |
 | 0023 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                     |              [Java](Java/0023-merge-k-sorted-lists.java)              |    Hard    |
+| 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                       |              [Java](Java/0024-swap-nodes-in-pairs.java)               |   Medium   |
+| 0025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                                             |            [Java](Java/0025-reverse-nodes-in-k-group.java)            |    Hard    |
