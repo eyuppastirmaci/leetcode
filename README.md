@@ -1,5 +1,5 @@
 ﻿#### A collection of my personal solutions to LeetCode problems
-[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-28-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-29-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
 ## 📝 Solutions
 |  #   | Title                                                                                                                                   |                                  Solution                                   | Difficulty |
 |:----:|:----------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------:|:----------:|
@@ -31,3 +31,4 @@
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                               |        [Kotlin](Kotlin/0026-remove-duplicates-from-sorted-array.kt)         |    Easy    |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                         |                   [Kotlin](Kotlin/0027-remove-element.kt)                   |    Easy    |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Kotlin](Kotlin/0028-find-the-index-of-the-first-occurrence-in-a-string.kt) |    Easy    |
+| 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)                                                               |                [Kotlin](Kotlin/0029-divide-two-integers.kt)                 |   Medium   |
