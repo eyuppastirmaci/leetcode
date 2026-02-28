@@ -1,6 +1,4 @@
 ﻿#### A collection of my personal solutions to LeetCode problems
-[![LeetCode Progress](https://img.shields.io/badge/Problems%20Solved-29-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
-## 📝 Solutions
 |  #   | Title                                                                                                                                   |                                  Solution                                   | Difficulty |
 |:----:|:----------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------:|:----------:|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                       |                       [Java](Java/0001-two-sum.java)                        |    Easy    |
@@ -32,3 +30,6 @@
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                         |                   [Kotlin](Kotlin/0027-remove-element.kt)                   |    Easy    |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Kotlin](Kotlin/0028-find-the-index-of-the-first-occurrence-in-a-string.kt) |    Easy    |
 | 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)                                                               |                [Kotlin](Kotlin/0029-divide-two-integers.kt)                 |   Medium   |
+| 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)                   |     [Kotlin](Kotlin/0030-substring-with-concatenation-of-all-words.kt)      |    Hard    |
+| 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                         |               [Kotlin](Kotlin/0035-search-insert-position.kt)               |    Easy    |
+| 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                               |                [Kotlin](Kotlin/0058-length-of-last-word.kt)                 |    Easy    |
