@@ -34,3 +34,6 @@
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                         |               [Kotlin](Kotlin/0035-search-insert-position.kt)               |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                               |                [Kotlin](Kotlin/0058-length-of-last-word.kt)                 |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                     |                      [Kotlin](Kotlin/0066-plus-one.kt)                      |
+| 0067 | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                                 |                     [Kotlin](Kotlin/0067-add-binary.kt)                     |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                         |                      [Kotlin](Kotlin/0069-sqrt(x).kt)                       |
+| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                       |                  [Kotlin](Kotlin/0070-climbing-stairs.kt)                   |
