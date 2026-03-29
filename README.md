@@ -40,3 +40,4 @@
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                 |          [Java](Java/0083-remove-duplicates-from-sorted-list.java)          |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                 |                 [Java](Java/0088-merge-sorted-arrays.java)                  |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                           |            [Java](Java/0094-binary-tree-inorder-traversal.java)             |
+| 0100 | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                   |                      [Java](Java/0100-same-tree.java)                       |
