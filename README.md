@@ -32,6 +32,7 @@
 | 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)                                                               |                [Kotlin](Kotlin/0029-divide-two-integers.kt)                 |
 | 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)                   |     [Kotlin](Kotlin/0030-substring-with-concatenation-of-all-words.kt)      |
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/)                                                                     |                   [Java](Java/0031-next-permutation.java)                   |
+| 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                         |            [Java](Java/0033-search-in-rotated-sorted-array.java)            |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                         |               [Kotlin](Kotlin/0035-search-insert-position.kt)               |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                               |                [Kotlin](Kotlin/0058-length-of-last-word.kt)                 |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                     |                      [Kotlin](Kotlin/0066-plus-one.kt)                      |
