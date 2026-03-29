@@ -37,4 +37,5 @@
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                                 |                     [Kotlin](Kotlin/0067-add-binary.kt)                     |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                         |                      [Kotlin](Kotlin/0069-sqrt(x).kt)                       |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                       |                  [Kotlin](Kotlin/0070-climbing-stairs.kt)                   |
-| 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                 |          [Java](Java/0083-remove-duplicates-from-sorted-list.java)          |
+| 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                 |                 [Java](Java/0088-merge-sorted-arrays.java)                  |
+| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                           |            [Java](Java/0094-binary-tree-inorder-traversal.java)             |
