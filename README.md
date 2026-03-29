@@ -37,3 +37,4 @@
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                                 |                     [Kotlin](Kotlin/0067-add-binary.kt)                     |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                         |                      [Kotlin](Kotlin/0069-sqrt(x).kt)                       |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                       |                  [Kotlin](Kotlin/0070-climbing-stairs.kt)                   |
+| 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                 |          [Java](Java/0083-remove-duplicates-from-sorted-list.java)          |
