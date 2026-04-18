@@ -46,3 +46,4 @@
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                                     |              [Java](Java/0094-binary-tree-inorder-traversal.java)              |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                             |                        [Java](Java/0100-same-tree.java)                        |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                           |                   [Java](Java/0217-contains-duplicate.java)                    |
+| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                     |                      [Java](Java/0242-valid-anagram.java)                      |
