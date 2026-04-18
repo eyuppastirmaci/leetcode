@@ -60,6 +60,9 @@ class Solution {
 
         for (int i = 0; i < s.length(); i++) {
             counts[s.charAt(i) - 'a']++;
+        }
+
+        for (int i = 0; i < t.length(); i++) {
             if (--counts[t.charAt(i) - 'a'] < 0) {
                 return false;
             }
