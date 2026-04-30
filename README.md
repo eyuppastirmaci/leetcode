@@ -56,3 +56,4 @@
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                     |                      [Java](Java/0242-valid-anagram.java)                      |
 | 0271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)                                                             |                [Java](Java/0271-encode-and-decode-strings.java)                |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                 |                 [Java](Java/0347-top-k-frequent-elements.java)                 |
+| 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                 |        [Kotlin](Kotlin/0424-longest-repeating-character-replacement.kt)        |
