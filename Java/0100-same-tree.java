@@ -43,3 +43,44 @@ class Solution {
 
     }
 }
+
+/**
+ * Recursive DFS Pre-Order
+ *
+ * Traverses both trees simultaneously, comparing node pairs in
+ * lockstep. Two trees are the same iff the current values match and
+ * the left subtrees are the same and the right subtrees are the same.
+ *
+ * The base cases resolve structure: two nulls are the same, one null
+ * means the shapes diverge. A value mismatch fails fast before
+ * recursing.
+ *
+ * It is pre-order because each pair is compared before its children
+ * are visited — no information flows bottom-up, so no post-order
+ * bookkeeping is needed.
+ *
+ * The && operator short-circuits: if the left subtrees differ, the
+ * right subtrees are never visited. This prunes only failing cases;
+ * two identical trees still visit every pair.
+ *
+ * Time: O(n)
+ * Space: O(h)
+ */
+
+class Solution {
+    public boolean isSameTree(TreeNode p, TreeNode q) {
+        if (p == null && q == null) {
+            return true;
+        }
+
+        if (p == null && q != null || p != null && q == null) {
+            return false;
+        }
+
+        if (p != null && q != null && p.val != q.val) {
+            return false;
+        }
+
+        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
+    }
+}
