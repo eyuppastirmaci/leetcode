@@ -1,0 +1,59 @@
+name: Update LeetCode progress
+
+on:
+  schedule:
+    - cron: '17 3 * * 1'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/update-leetcode-progress.mjs
+      - .github/workflows/update-leetcode-progress.yml
+      - Java/**
+      - Kotlin/**
+
+permissions: {}
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-progress:
+    if: github.ref_type == 'branch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          package-manager-cache: false
+
+      - name: Update solved count using saved total
+        if: github.event_name == 'push'
+        run: node scripts/update-leetcode-progress.mjs --offline
+
+      - name: Fetch total and update README counter
+        if: github.event_name != 'push'
+        run: node scripts/update-leetcode-progress.mjs
+
+      - name: Commit updated counter
+        env:
+          TARGET_BRANCH: ${{ github.ref_name }}
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- README.md
+          git commit -m "docs: update LeetCode progress" --only -- README.md
+          git push origin "HEAD:$TARGET_BRANCH"

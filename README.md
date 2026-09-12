@@ -1,4 +1,10 @@
 #### A collection of my personal solutions to LeetCode problems
+
+<!-- leetcode-progress:start -->
+<!-- leetcode-total: 4051 -->
+[![LeetCode: 103/4051 solved](https://img.shields.io/badge/LeetCode-103%2F4051-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=222222)](https://leetcode.com/problemset/)
+<!-- leetcode-progress:end -->
+
 |  #   | Title                                                                                                                                             |                                                    Solution                                                    |      Topic       |
 |:----:|:--------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------:|:----------------:|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                 |                        [Java](Java/0001-two-sum.java), [Kotlin](Kotlin/0001-two-sum.kt)                        | Arrays & Hashing |
