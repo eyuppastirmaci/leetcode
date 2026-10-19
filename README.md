@@ -1,8 +1,8 @@
 #### A collection of my personal solutions to LeetCode problems
 
 <!-- leetcode-progress:start -->
-<!-- leetcode-total: 4081 -->
-[![LeetCode: 108/4081 solved](https://img.shields.io/badge/LeetCode-108%2F4081-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=222222)](https://leetcode.com/problemset/)
+<!-- leetcode-total: 4086 -->
+[![LeetCode: 108/4086 solved](https://img.shields.io/badge/LeetCode-108%2F4086-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=222222)](https://leetcode.com/problemset/)
 <!-- leetcode-progress:end -->
 
 |  #   | Title                                                                                                                                             |                                                    Solution                                                    |      Topic       |
