@@ -29,3 +29,47 @@ class Solution {
         return prefix;
     }
 }
+
+/*
+ *
+ * Vertical Scanning
+ *
+ * n: number of words
+ * m: length of the shortest word
+ * S: total number of characters in words
+ *
+ * Time complexity: O(n * m), bounded by O(S)
+ *                  each column of the first word is compared against
+ *                  the remaining n - 1 words
+ *                  the scan stops at the first mismatch or when the
+ *                  shortest word ends, so at most m + 1 columns are visited
+ *
+ * Space complexity: O(1) extra, the returned prefix string doesn't count only index and char variables are used
+ *
+ */
+class Solution {
+    public String longestCommonPrefix(String[] words) {
+
+        String baseWord = words[0];
+
+        for (int charIndex = 0; charIndex < baseWord.length(); charIndex++) {
+            char targetChar = baseWord.charAt(charIndex);
+
+            for (int wordIndex = 1; wordIndex < words.length; wordIndex++) {
+                String currentWord = words[wordIndex];
+
+                if (charIndex == currentWord.length()) {
+                    return baseWord.substring(0, charIndex);
+                }
+
+                char currentChar = currentWord.charAt(charIndex);
+
+                if (targetChar != currentChar) {
+                    return baseWord.substring(0, charIndex);
+                }
+            }
+        }
+
+        return baseWord;
+    }
+}
