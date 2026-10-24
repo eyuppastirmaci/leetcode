@@ -2,7 +2,7 @@
 
 <!-- leetcode-progress:start -->
 <!-- leetcode-total: 4086 -->
-[![LeetCode: 109/4086 solved](https://img.shields.io/badge/LeetCode-109%2F4086-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=222222)](https://leetcode.com/problemset/)
+[![LeetCode: 110/4086 solved](https://img.shields.io/badge/LeetCode-110%2F4086-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=222222)](https://leetcode.com/problemset/)
 <!-- leetcode-progress:end -->
 
 |  #   | Title                                                                                                                                             |                                                    Solution                                                    |      Topic       |
